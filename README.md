@@ -19,3 +19,5 @@ You can click the Preview link to take a look at your changes.
 
 ### visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=longmaker2.longmaker2&left_color=blue&right_color=purple)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longmaker2&layout=compact&theme=dark&show_icons" alt="longmaker2" /></p>
