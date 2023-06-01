@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=longmaker2&show_icons=true&theme=dark)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longmaker2&label=Profile%20views&color=0e75b6&style=flat" alt="longmaker2" /> </p>
+
+![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=longmaker2&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longmaker2&layout=compact&theme=dark&show_icons)](https://github.com/longmaker2/github-readme-stats)
 
