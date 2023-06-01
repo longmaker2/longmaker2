@@ -20,3 +20,10 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longmaker2&label=Profile%20views&color=0e75b6&style=flat" alt="longmaker2" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longmaker2&layout=compact&theme=dark&show_icons" alt="longmaker2" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/LongMakerGutaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Long Maker Long Deng" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/long-maker-long-deng-478124177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Long Maker Long Deng" height="30" width="40" /></a>
+<a href="https://medium.com/@l.deng_74356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Long Maker Long Deng" height="30" width="40" /></a>
+</p>
