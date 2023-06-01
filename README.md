@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longmaker2&layout=compact&theme=dark&show_icons)](https://github.com/longmaker2/github-readme-stats)
 
-### visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=longmaker2.longmaker2&left_color=blue&right_color=purple)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=longmaker2&label=Profile%20views&color=0e75b6&style=flat" alt="longmaker2" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longmaker2&layout=compact&theme=dark&show_icons" alt="longmaker2" /></p>
