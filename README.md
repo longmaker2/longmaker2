@@ -10,7 +10,7 @@
 
 ### 👤 About Me
 
-I’m an ALU student from South Sudan, passionate about building impactful web applications through full-stack development. Currently, I’m mastering **Computer Science Foundations** and **Software Engineering**, with a focus on creating user-friendly, innovative solutions.
+I’m a final-year ALU student from South Sudan currently residing in Kigali, Rwanda, and I am passionate about building impactful web applications through full-stack development. I’m presently mastering Computer Science Foundations and Software Engineering, focusing on creating user-friendly, innovative solutions.
 
 - 🌍 **Based In**: South Sudan | ALU
 - 🌱 **Learning**: Web Development (React, Node.js), TypeScript, Python
@@ -37,9 +37,8 @@ I’m an ALU student from South Sudan, passionate about building impactful web a
 
 #### Languages & Tools
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /></a>
@@ -47,9 +46,28 @@ I’m an ALU student from South Sudan, passionate about building impactful web a
 </p>
 
 #### Frameworks & Libraries
+- **Django**: Robust Python framework for rapid development
+- **Express.js**: Minimalist web framework for Node.js APIs
+- **Flask**: Lightweight Python web framework
+- **Next.js**: Server-side rendering and static site generation
+- **Node.js**: JavaScript runtime for scalable applications
 - **React**: Dynamic front-end development
-- **Node.js & Express**: Scalable backend APIs
-- **Tailwind CSS**: Rapid, responsive styling
+- **Tailwind CSS**: Utility-first CSS for responsive design
+
+#### DevOps Skills
+- **Docker**: Containerization for consistent deployments
+- **GitHub Actions**: Automating workflows and CI/CD pipelines
+
+---
+
+<p align="center">⋆✨⋆</p>
+
+### ⏳ My Journey
+
+- **2022**: Began coding journey with HTML, CSS, Python, and JavaScript
+- **2023**: Enrolled at ALU, diving into Computer Science and Software Engineering
+- **2024**: Launched `South-Sudan-Horizons`, my first full-stack project
+- **Present**: Exploring open-source contributions and advanced web technologies
 
 ---
 
@@ -69,7 +87,7 @@ I’m an ALU student from South Sudan, passionate about building impactful web a
 - **[South-Sudan-Horizons](https://github.com/longmaker2/south-sudan-horizons)**  
   A tourism platform connecting travelers with South Sudan’s experiences. Features tour bookings, real-time chat, and multi-language support.  
   **[Live Demo](https://south-sudan-horizons.vercel.app/)** | **[Video](https://drive.google.com/file/d/1FLqeuY16mD0g7nLZjQULC0XZv6Nn4dZ5/view?usp=sharing)**  
-  *Tech*: React, Node.js, MongoDB, Tailwind CSS
+  *Tech*: React, Node.js, Express.js, MongoDB, Tailwind CSS
 
 - **[Portfolio](https://github.com/longmaker2/portfolio)**  
   My personal portfolio showcasing projects and skills, built with modern web technologies.  
@@ -137,8 +155,4 @@ If you enjoy my projects, consider supporting my journey in tech!
 
 <div align="center">
   <em>"Code is my canvas, and innovation is my brush."</em>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/110574294-ff1db000-8162-11eb-882f-6122a03fdc85.png" alt="Footer Wave" width="100%" />
 </div>
