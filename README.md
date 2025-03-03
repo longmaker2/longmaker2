@@ -12,8 +12,8 @@
 
 I’m a final-year ALU student from South Sudan currently residing in Kigali, Rwanda, and I am passionate about building impactful web applications through full-stack development. I’m presently mastering Computer Science Foundations and Software Engineering, focusing on creating user-friendly, innovative solutions.
 
-- 🌍 **Based In**: South Sudan | ALU
-- 🌱 **Learning**: Web Development (React, Node.js), TypeScript, Python
+- 🌍 **Based In**: Kigali, Rwanda | ALU
+- 🌱 **Learning**: Web & Mobile Development (React, Node.js, Flutter), TypeScript, Python
 - 💼 **Goal**: Contribute to open-source and develop real-world projects
 - 📫 **Email**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com)
 
@@ -37,10 +37,17 @@ I’m a final-year ALU student from South Sudan currently residing in Kigali, Rw
 
 #### Languages & Tools
 <p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" /></a>
+  <a href="https://www.dartlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" /></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
+  <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
 </p>
@@ -49,9 +56,12 @@ I’m a final-year ALU student from South Sudan currently residing in Kigali, Rw
 - **Django**: Robust Python framework for rapid development
 - **Express.js**: Minimalist web framework for Node.js APIs
 - **Flask**: Lightweight Python web framework
+- **Flutter**: Cross-platform UI toolkit for mobile and web
+- **Framer Motion**: Animation library for React
 - **Next.js**: Server-side rendering and static site generation
 - **Node.js**: JavaScript runtime for scalable applications
 - **React**: Dynamic front-end development
+- **React Native**: Native mobile app development with React
 - **Tailwind CSS**: Utility-first CSS for responsive design
 
 #### DevOps Skills
@@ -64,7 +74,7 @@ I’m a final-year ALU student from South Sudan currently residing in Kigali, Rw
 
 ### ⏳ My Journey
 
-- **2022**: Began coding journey with HTML, CSS, Python, and JavaScript
+- **2022**: Began coding journey with HTML, CSS, and JavaScript
 - **2023**: Enrolled at ALU, diving into Computer Science and Software Engineering
 - **2024**: Launched `South-Sudan-Horizons`, my first full-stack project
 - **Present**: Exploring open-source contributions and advanced web technologies
@@ -87,11 +97,19 @@ I’m a final-year ALU student from South Sudan currently residing in Kigali, Rw
 - **[South-Sudan-Horizons](https://github.com/longmaker2/south-sudan-horizons)**  
   A tourism platform connecting travelers with South Sudan’s experiences. Features tour bookings, real-time chat, and multi-language support.  
   **[Live Demo](https://south-sudan-horizons.vercel.app/)** | **[Video](https://drive.google.com/file/d/1FLqeuY16mD0g7nLZjQULC0XZv6Nn4dZ5/view?usp=sharing)**  
-  *Tech*: React, Node.js, Express.js, MongoDB, Tailwind CSS
+  *Tech*: React, Node.js, Express.js, MongoDB, Tailwind CSS, Framer Motion, Vite, JWT
+
+- **[Community-Connect](https://github.com/longmaker2/Community-Connect)**  
+  A platform fostering community engagement and collaboration.  
+  *Tech*: React, Node.js, Express.js, MongoDB (assumed based on your stack)
+
+- **[edas](https://github.com/longmaker2/edas)**  
+  An educational data analysis system for insights and visualization.  
+  *Tech*: Python, Flask (assumed based on your Python focus)
 
 - **[Portfolio](https://github.com/longmaker2/portfolio)**  
   My personal portfolio showcasing projects and skills, built with modern web technologies.  
-  *Tech*: React, Tailwind CSS, Framer Motion
+  *Tech*: React, Tailwind CSS, Framer Motion, Vite
 
 Explore more on my [GitHub Repositories](https://github.com/longmaker2?tab=repositories).
 
@@ -145,14 +163,12 @@ I’m excited to collaborate on open-source projects or explore tech opportuniti
 
 If you enjoy my projects, consider supporting my journey in tech!
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/longmaker" target="_blank" rel="noreferrer">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40" />
-  </a>
-</p>
-
 ---
 
 <div align="center">
   <em>"Code is my canvas, and innovation is my brush."</em>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/110574294-ff1db000-8162-11eb-882f-6122a03fdc85.png" alt="Footer Wave" width="100%" />
 </div>
