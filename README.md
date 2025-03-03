@@ -74,7 +74,7 @@ I’m a final-year ALU student from South Sudan currently residing in Kigali, Rw
 
 ### ⏳ My Journey
 
-- **2022**: Began coding journey with HTML, CSS, and JavaScript
+- **2022**: Began coding journey with HTML, CSS, Python, and JavaScript
 - **2023**: Enrolled at ALU, diving into Computer Science and Software Engineering
 - **2024**: Launched `South-Sudan-Horizons`, my first full-stack project
 - **Present**: Exploring open-source contributions and advanced web technologies
