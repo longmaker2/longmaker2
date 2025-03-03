@@ -168,7 +168,3 @@ If you enjoy my projects, consider supporting my journey in tech!
 <div align="center">
   <em>"Code is my canvas, and innovation is my brush."</em>
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/110574294-ff1db000-8162-11eb-882f-6122a03fdc85.png" alt="Footer Wave" width="100%" />
-</div>
