@@ -8,12 +8,22 @@
 
 ### About Me
 
-I’m an ALU student from South Sudan currently residing in Kigali, Rwanda. I'm passionate about building impactful web applications through full-stack development. Currently, I’m mastering Computer Science Foundations and Software Engineering, with a focus on creating user-friendly, innovative solutions.
+I’m an ALU student from South Sudan, passionate about building impactful web applications through full-stack development. Currently, I’m mastering **Computer Science Foundations** and **Software Engineering**, with a focus on creating user-friendly, innovative solutions.
 
-- 🌍 **Based In**: Kigali, Rwanda | ALU
+- 🌍 **Based In**: South Sudan | ALU
 - 🌱 **Learning**: Web Development (React, Node.js), TypeScript, Python
 - 💼 **Goal**: Contribute to open-source and develop real-world projects
 - 📫 **Email**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com)
+
+---
+
+### Badges
+
+<div align="center">
+  <img src="https://img.shields.io/github/stars/longmaker2?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/longmaker2?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
+</div>
 
 ---
 
@@ -37,6 +47,13 @@ I’m an ALU student from South Sudan currently residing in Kigali, Rwanda. I'm 
 
 ---
 
+### Current Status
+
+- **Working On**: Enhancing `South-Sudan-Horizons` with new features like real-time notifications.
+- **Next Goal**: Build a Python-based CLI tool for personal use.
+
+---
+
 ### Featured Projects
 
 - **[South-Sudan-Horizons](https://github.com/longmaker2/south-sudan-horizons)**  
@@ -49,6 +66,13 @@ I’m an ALU student from South Sudan currently residing in Kigali, Rwanda. I'm 
   *Tech*: React, Tailwind CSS, Framer Motion
 
 Explore more on my [GitHub Repositories](https://github.com/longmaker2?tab=repositories).
+
+---
+
+### Achievements
+
+- **ALU Coursework**: Completed foundational modules in Computer Science and Software Engineering.
+- **Project Milestone**: Successfully deployed `South-Sudan-Horizons` to Vercel with a functional backend on Render.
 
 ---
 
@@ -68,7 +92,7 @@ Explore more on my [GitHub Repositories](https://github.com/longmaker2?tab=repos
 
 ### Let’s Connect
 
-I’m eager to collaborate on open-source projects or discuss tech opportunities. Reach out!
+I’m excited to collaborate on open-source projects or explore tech opportunities. Feel free to reach out!
 
 <p align="center">
   <a href="https://twitter.com/LongMakerGutaja" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
@@ -78,3 +102,21 @@ I’m eager to collaborate on open-source projects or discuss tech opportunities
 
 - **Email**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com)
 - **GitHub**: [longmaker2](https://github.com/longmaker2)
+
+---
+
+### Support My Work
+
+If you like what I’m building, consider supporting my projects!
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/longmaker" target="_blank" rel="noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <em>"Code is my canvas, and innovation is my brush."</em>
+</div>
