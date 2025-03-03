@@ -119,8 +119,8 @@ Explore more on my [GitHub Repositories](https://github.com/longmaker2?tab=repos
 
 ### 🎖️ Achievements
 
-- **ALU Coursework**: Completed foundational modules in Computer Science and Software Engineering  
-- **Project Milestone**: Successfully deployed `South-Sudan-Horizons` to Vercel with a functional backend on Render  
+- **ALU Coursework**: Completed all the modules in Computer Science and Software Engineering  
+- **Project Milestone**: Successfully deployed `South-Sudan-Horizons` to Vercel with a functional backend on Render, and I am still working on other projects to be deployed as well.
 
 ---
 
