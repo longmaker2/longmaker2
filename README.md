@@ -101,11 +101,11 @@ I’m a final-year ALU student from South Sudan currently residing in Kigali, Rw
 
 - **[Community-Connect](https://github.com/longmaker2/Community-Connect)**  
   A platform fostering community engagement and collaboration.  
-  *Tech*: React, Node.js, Express.js, MongoDB (assumed based on your stack)  
+  *Tech*: React, Node.js, Express.js, MongoDB 
 
 - **[edas](https://github.com/longmaker2/edas)**  
   An educational data analysis system for insights and visualization.  
-  *Tech*: Python, Flask (assumed based on your Python focus)  
+  *Tech*: Python, Django, React
 
 - **[Portfolio](https://github.com/longmaker2/portfolio)**  
   My personal portfolio showcasing projects and skills, built with modern web technologies.  
