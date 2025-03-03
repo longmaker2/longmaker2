@@ -4,9 +4,11 @@
   <em>Aspiring Full-Stack Developer</em>
 </div>
 
+<p align="center">✨ <i>Crafting Code, Connecting Worlds</i> ✨</p>
+
 ---
 
-### About Me
+### 👤 About Me
 
 I’m an ALU student from South Sudan, passionate about building impactful web applications through full-stack development. Currently, I’m mastering **Computer Science Foundations** and **Software Engineering**, with a focus on creating user-friendly, innovative solutions.
 
@@ -17,7 +19,9 @@ I’m an ALU student from South Sudan, passionate about building impactful web a
 
 ---
 
-### Badges
+<p align="center">⋆✨⋆</p>
+
+### 🏅 Badges
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/longmaker2?style=social" alt="GitHub Stars" />
@@ -27,7 +31,9 @@ I’m an ALU student from South Sudan, passionate about building impactful web a
 
 ---
 
-### Tech Stack
+<p align="center">⋆✨⋆</p>
+
+### 🛠️ Tech Stack
 
 #### Languages & Tools
 <p align="center">
@@ -47,14 +53,18 @@ I’m an ALU student from South Sudan, passionate about building impactful web a
 
 ---
 
-### Current Status
+<p align="center">⋆✨⋆</p>
 
-- **Working On**: Enhancing `South-Sudan-Horizons` with new features like real-time notifications.
-- **Next Goal**: Build a Python-based CLI tool for personal use.
+### ⚡ Current Status
+
+- **Working On**: Enhancing `South-Sudan-Horizons` with real-time notifications
+- **Next Goal**: Build a Python-based CLI tool for personal use
 
 ---
 
-### Featured Projects
+<p align="center">⋆✨⋆</p>
+
+### 🗂️ Featured Projects
 
 - **[South-Sudan-Horizons](https://github.com/longmaker2/south-sudan-horizons)**  
   A tourism platform connecting travelers with South Sudan’s experiences. Features tour bookings, real-time chat, and multi-language support.  
@@ -69,14 +79,18 @@ Explore more on my [GitHub Repositories](https://github.com/longmaker2?tab=repos
 
 ---
 
-### Achievements
+<p align="center">⋆✨⋆</p>
 
-- **ALU Coursework**: Completed foundational modules in Computer Science and Software Engineering.
-- **Project Milestone**: Successfully deployed `South-Sudan-Horizons` to Vercel with a functional backend on Render.
+### 🎖️ Achievements
+
+- **ALU Coursework**: Completed foundational modules in Computer Science and Software Engineering
+- **Project Milestone**: Successfully deployed `South-Sudan-Horizons` to Vercel with a functional backend on Render
 
 ---
 
-### GitHub Insights
+<p align="center">⋆✨⋆</p>
+
+### 📊 GitHub Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=longmaker2&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400" />
@@ -90,7 +104,9 @@ Explore more on my [GitHub Repositories](https://github.com/longmaker2?tab=repos
 
 ---
 
-### Let’s Connect
+<p align="center">⋆✨⋆</p>
+
+### 🌐 Let’s Connect
 
 I’m excited to collaborate on open-source projects or explore tech opportunities. Feel free to reach out!
 
@@ -105,9 +121,11 @@ I’m excited to collaborate on open-source projects or explore tech opportuniti
 
 ---
 
-### Support My Work
+<p align="center">⋆✨⋆</p>
 
-If you like what I’m building, consider supporting my projects!
+### 💡 Support My Work
+
+If you enjoy my projects, consider supporting my journey in tech!
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/longmaker" target="_blank" rel="noreferrer">
@@ -119,4 +137,8 @@ If you like what I’m building, consider supporting my projects!
 
 <div align="center">
   <em>"Code is my canvas, and innovation is my brush."</em>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/110574294-ff1db000-8162-11eb-882f-6122a03fdc85.png" alt="Footer Wave" width="100%" />
 </div>
