@@ -168,6 +168,27 @@ I'm a final-year ALU student from South Sudan, currently based in Kigali, Rwanda
   <p style="font-size: 0.9rem; color: #FF69B4;"><i>Watch my contributions slither into action!</i></p>
 </div>
 
+<!-- Added: Recent Activity -->
+### ⏳ Recent Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longmaker2&theme=radical&hide_border=true&area=true&custom_title=Recent%20Contributions" width="80%" alt="Recent Activity Graph" />
+  <p style="font-size: 0.9rem; color: #FF69B4;"><i>Latest commits, PRs, and more!</i></p>
+</div>
+
+<!-- Adjusted: Coding Time (WakaTime Setup Required) -->
+### ⏰ Coding Time
+<div align="center">
+  <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-ID-HERE.svg" alt="WakaTime Coding Time" />
+  <p style="font-size: 0.9rem; color: #FF69B4;"><i>Tracking my coding hours with WakaTime (replace YOUR-WAKATIME-ID-HERE after setup)</i></p>
+</div>
+
+<!-- Adjusted: Visitor Map -->
+### 🌍 Visitor Map
+<div align="center">
+  <img src="https://visitormaps.vercel.app/map/github/longmaker2?color=4CAF50&scale=1.5" alt="Visitor Map" width="50%" />
+  <p style="font-size: 0.9rem; color: #FF69B4;"><i>Where my visitors come from! (May take a day to populate)</i></p>
+</div>
+
 ---
 
 ### 🌟 Let's Collaborate!
