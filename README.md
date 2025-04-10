@@ -8,6 +8,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=longmaker2&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <!-- Added: Dynamic Latest Commit Badge -->
+  <img src="https://img.shields.io/github/last-commit/longmaker2/longmaker2?color=0e75b6&style=flat" alt="Latest Commit" />
 </p>
 
 ---
@@ -21,6 +23,14 @@ I'm a final-year ALU student from South Sudan, currently based in Kigali, Rwanda
 - 💡 **Fun Fact**: I built a Flask app during a 48-hour power outage using only my mobile hotspot!
 - 🎯 **Goal**: To contribute to meaningful open-source projects and build solutions for African communities
 - 📫 **Reach Me**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com) | [Schedule Chat](https://calendly.com/your-link)
+
+<!-- Added: Skills Snapshot -->
+#### 🌟 Skills Snapshot
+<p align="center">
+  <span>JavaScript: <progress value="85" max="100" style="width: 100px;"></progress> 85%</span> |
+  <span>Python: <progress value="90" max="100" style="width: 100px;"></progress> 90%</span> |
+  <span>React: <progress value="80" max="100" style="width: 100px;"></progress> 80%</span>
+</p>
 
 ---
 
@@ -73,6 +83,10 @@ I'm a final-year ALU student from South Sudan, currently based in Kigali, Rwanda
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <!-- Added Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
 </p>
 
 ---
@@ -107,15 +121,51 @@ I'm a final-year ALU student from South Sudan, currently based in Kigali, Rwanda
   </tr>
 </table>
 
+<!-- Added: Portfolio Link -->
+### 🌐 Portfolio
+<p align="center">
+  Explore more of my work at <a href="https://your-portfolio-link.com">my portfolio</a> or view my <a href="https://github.com/longmaker2?tab=repositories">full GitHub repositories</a>.
+</p>
+
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=longmaker2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=longmaker2&theme=radical&hide_border=true" width="48%" />
+
+  <!-- GitHub Streak Stats (DemoLab) -->
+  <img src="https://streak-stats.demolab.com/?user=longmaker2&theme=radical&date_format=%25Y-%25m-%25d&hide_border=true" width="48%" />
+
+  <!-- OR use Awesome GitHub Stats (Streak only) -->
+  <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/longmaker2?cardType=streak&theme=dark&border=none" width="48%" /> -->
+
   <br/>
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longmaker2&layout=compact&theme=radical&hide_border=true" width="50%" />
+
+  <!-- Added: Contribution Graph (Keeping as is per instructions) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longmaker2&theme=radical&hide_border=true" width="80%" alt="Contribution Graph" />
+</div>
+
+<!-- GitHub Trophies with Fallback -->
+### 🏆 GitHub Trophies
+<div align="center">
+  <!-- Primary Trophy Link with Cache Buster -->
+  <img src="https://github-profile-trophy.vercel.app/?username=longmaker2&theme=radical&no-frame=true&margin-w=15&cache_buster=1698777600" alt="GitHub Trophies" />
+</div>
+
+<!-- Added: Snake Game Contribution -->
+### 🐍 Contribution Snake Game
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/longmaker2/longmaker2/raw/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/longmaker2/longmaker2/raw/output/snake.svg" />
+    <img alt="Snake Game Contribution" src="https://github.com/longmaker2/longmaker2/raw/output/snake.svg" width="80%" />
+  </picture>
+  <p style="font-size: 0.9rem; color: #FF69B4;"><i>Watch my contributions slither into action!</i></p>
 </div>
 
 ---
@@ -164,6 +214,6 @@ If you appreciate my work:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=footer&animation=fadeIn" width="100%" />
   <p style="font-size: 0.8rem; color: #777;">"The only way to do great work is to love what you do." — Steve Jobs</p>
 </div>
