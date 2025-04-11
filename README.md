@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Long%20Maker%20Long%20Deng&fontSize=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Long%20Maker%20Long%20Deng&fontSize=50&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
@@ -59,6 +59,33 @@ I’m a recent graduate from ALU, having completed my Bachelor of Science in Sof
 - 🧪 Experimenting with **GraphQL** and **Prisma**
 - 🌍 Exploring ways to leverage tech for displaced communities in Africa
 - 📱 Building a Flutter app for ALU student services
+
+---
+
+### ✍️ Latest Insights
+<p align="center">
+  <a href="https://medium.com/@l.deng_74356/everything-in-python-is-an-object-4f2bbda35931">
+    <img src="https://img.shields.io/badge/Read%20My%20Latest%20Post-EVERYTHING%20IN%20PYTHON%20IS%20AN%20OBJECT-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌟 Featured Highlights
+<p align="center">
+  A collection of posts, articles, and features showcasing my work and thoughts:
+</p>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Xy8slamvLsa0DnOcuE-c4sYfPIfvPBPp/view" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Drive-ALU%20Impact%20Report-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+  <a href="https://www.newtimes.co.rw/article/13885/news/education/studying-in-rwanda-through-the-eyes-of-international-scholars" target="_blank">
+    <img src="https://img.shields.io/badge/New%20Times-Studying%20in%20Rwanda-FF5722?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7269753811538243584/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mondiant%20Initiative%20Giving%20Tuesday-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -133,7 +160,7 @@ I’m a recent graduate from ALU, having completed my Bachelor of Science in Sof
       </p>
       <p>🚀 1,000+ users | 🌍 Multi-language | 💬 Real-time chat</p>
       <p>
-        <a href="https://github.com/longmaker2/south_sudan_horizons">
+        <a href="https://github.com/longmaker2/south-sudan-horizons">
           <img src="https://img.shields.io/badge/View_Repo-181717?logo=github&logoColor=white" />
         </a>
         <a href="https://south-sudan-horizons.vercel.app/">
@@ -226,6 +253,13 @@ I’m a recent graduate from ALU, having completed my Bachelor of Science in Sof
 
 ---
 
+### 💬 What People Say
+<p align="center">
+  <i>"Long’s dedication to solving real-world problems through code is unmatched!" — ALU Mentor</i>
+</p>
+
+---
+
 ### 💌 Let's Connect
 
 <p align="center">
@@ -290,6 +324,12 @@ I’m a recent graduate from ALU, having completed my Bachelor of Science in Sof
 
 <p align="center">
   As I gear up for graduation, I’m excited to dive deeper into the tech world—open to opportunities in full-stack development, mobile app innovation, and open-source collaboration. Let’s build something amazing together!
+</p>
+
+<p align="center">
+  <a href="https://github.com/longmaker2/longmaker2/issues">
+    <img src="https://img.shields.io/badge/Collaborate%20With%20Me-Click%20Here-FF5722?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
