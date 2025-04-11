@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Long%20Maker%20Long%20Deng&fontSize=50&animation=twinkling" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Full-Stack Development" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border: 2px solid #4CAF50;" loading="lazy" />
 </p>
 
@@ -38,6 +42,13 @@ I’m a recent graduate from ALU, having completed my Bachelor of Science in Sof
   JavaScript/TypeScript: <progress value="85" max="100"></progress> 85% | 
   Python: <progress value="90" max="100"></progress> 90% | 
   React: <progress value="80" max="100"></progress> 80%
+</p>
+
+#### 📈 At a Glance
+<p align="center">
+  <img src="https://img.shields.io/badge/Years%20Coding-4-FF5722?style=flat-square" />
+  <img src="https://img.shields.io/badge/Projects%20Completed-10+-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hours%20Mentored-200+-2196F3?style=flat-square" />
 </p>
 
 ---
@@ -122,7 +133,7 @@ I’m a recent graduate from ALU, having completed my Bachelor of Science in Sof
       </p>
       <p>🚀 1,000+ users | 🌍 Multi-language | 💬 Real-time chat</p>
       <p>
-        <a href="https://github.com/longmaker2/south-sudan-horizons">
+        <a href="https://github.com/longmaker2/south_sudan_horizons">
           <img src="https://img.shields.io/badge/View_Repo-181717?logo=github&logoColor=white" />
         </a>
         <a href="https://south-sudan-horizons.vercel.app/">
@@ -218,10 +229,10 @@ I’m a recent graduate from ALU, having completed my Bachelor of Science in Sof
 ### 💌 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/long-maker-long-deng/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://x.com/LongMakerGutaja" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/longmaker2" target="_blank">
@@ -230,19 +241,25 @@ I’m a recent graduate from ALU, having completed my Bachelor of Science in Sof
   <a href="mailto:l.deng@alustudent.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://calendly.com/your-link" target="_blank">
+  <a href="https://calendly.com/long_maker_long_deng" target="_blank">
     <img src="https://img.shields.io/badge/-Schedule-FF695B?style=for-the-badge&logo=calendly&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://longdeng.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF69B4?style=for-the-badge&logo=web&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-handle" target="_blank">
+  <a href="https://www.instagram.com/longmakergutajah/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://dev.to/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <a href="https://web.facebook.com/profile.php?id=61551252043455" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://medium.com/@your-handle" target="_blank">
+  <a href="https://www.tiktok.com/@longmakergutajah?_t=8g0e2fLPKaL&_r=1" target="_blank">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+254725253330" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@l.deng_74356" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
