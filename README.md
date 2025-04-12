@@ -29,7 +29,7 @@ I’m a recent graduate from ALU, having completed my Bachelor of Science in Sof
 - 🌱 **Currently Learning**: Advanced TypeScript, GraphQL, AWS
 - 💡 **Fun Fact**: I built a Flask app during a 48-hour power outage using only my mobile hotspot!
 - 🎯 **Goal**: To contribute to meaningful open-source projects and build tech solutions for African communities
-- 📫 **Reach Me**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com) | [Schedule Chat](https://calendly.com/your-link)
+- 📫 **Reach Me**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com) | [Schedule Chat](https://calendly.com/long_maker_long_deng)
 - 🎉 **Milestone**: Just finished my B.Sc. in Software Engineering—counting down to graduation day!
 
 #### 🌟 Skills Snapshot
