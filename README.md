@@ -25,12 +25,12 @@
 
 I’m a recent graduate from ALU, having completed my Bachelor of Science in Software Engineering in April 2025, with my graduation scheduled for June 27, 2025. Based in Kigali, Rwanda, I’m passionate about building impactful web and mobile applications through full-stack development. I’m mastering **Computer Science Foundations** and **Software Engineering**, applying my skills to create innovative, user-centric solutions that empower communities.
 
-- 🌍 **Based In**: Kigali, Rwanda | ALU
-- 🌱 **Currently Learning**: Advanced TypeScript, GraphQL, AWS
-- 💡 **Fun Fact**: I built a Flask app during a 48-hour power outage using only my mobile hotspot!
-- 🎯 **Goal**: To contribute to meaningful open-source projects and build tech solutions for African communities
-- 📫 **Reach Me**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com) | [Schedule Chat](https://calendly.com/long_maker_long_deng)
-- 🎉 **Milestone**: Just finished my B.Sc. in Software Engineering—counting down to graduation day!
+- **Based In**: Kigali, Rwanda | ALU
+- **Currently Learning**: Advanced TypeScript, GraphQL, AWS
+- **Fun Fact**: I built a Flask app during a 48-hour power outage using only my mobile hotspot!
+- **Goal**: To contribute to meaningful open-source projects and build tech solutions for African communities
+- **Reach Me**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com) | [Schedule Chat](https://calendly.com/long_maker_long_deng)
+- **Milestone**: Just finished my B.Sc. in Software Engineering—counting down to graduation day!
 
 #### 🌟 Skills Snapshot
 
@@ -55,10 +55,10 @@ I’m a recent graduate from ALU, having completed my Bachelor of Science in Sof
 
 ### 🧠 What I'm Working On
 
-- 🚀 Scaling **South Sudan Horizons** with more real-time features
-- 🧪 Experimenting with **GraphQL** and **Prisma**
-- 🌍 Exploring ways to leverage tech for displaced communities in Africa
-- 📱 Building a Flutter app for ALU student services
+- Scaling **South Sudan Horizons** with more real-time features
+- Experimenting with **GraphQL** and **Prisma**
+- Exploring ways to leverage tech for displaced communities in Africa
+- Building a Flutter app for ALU student services
 
 ---
 
@@ -245,11 +245,11 @@ I’m a recent graduate from ALU, having completed my Bachelor of Science in Sof
 
 ### 🌍 Community Impact
 
-- 🎤 **Tech Speaker**: Delivered talks on African developer ecosystems at ALU and local meetups
-- 👨‍🏫 **Mentorship**: Guided 15+ students as a lead coding mentor at ALU
-- 🌱 **Open Source**: Maintain 3 community projects with 50+ contributors
-- 🤝 **Collaborations**: Partnered with Ecobank and 2 African startups
-- 📚 **Education**: Creating free coding resources for South Sudanese developers
+- **Tech Speaker**: Delivered talks on African developer ecosystems at ALU and local meetups
+- **Mentorship**: Guided 15+ students as a lead coding mentor at ALU
+- **Open Source**: Maintain 3 community projects with 50+ contributors
+- **Collaborations**: Partnered with Ecobank and 2 African startups
+- **Education**: Creating free coding resources for South Sudanese developers
 
 ---
 
