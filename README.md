@@ -23,9 +23,9 @@
 
 ### 👤 About Me
 
-I’m a recent graduate from ALU, having completed my Bachelor of Science in Software Engineering in April 2025, with my graduation scheduled for June 27, 2025. Based in Kigali, Rwanda, I’m passionate about building impactful web and mobile applications through full-stack development. I’m mastering **Computer Science Foundations** and **Software Engineering**, applying my skills to create innovative, user-centric solutions that empower communities.
+Detail-oriented Junior Software Engineer with over 2 years of hands-on experience in full-stack development, UX/UI design, and mobile applications. Proficient in building secure, scalable, and user-friendly software solutions. Successfully developed **Community Connect**, a multi-tenant MERN stack platform with real-time chat via Socket.IO, and **South Sudan Horizons**, a feature-rich tour booking website with multilingual support, reviews, and live chat. Graduated with a **BSc in Software Engineering from African Leadership University**. Gained practical experience through an IT internship at **Ecobank Rwanda** (led EDAS system development and offered tech support) and a remote internship at **ClaimDeck and Hermes Law** (active contributor on multiple projects). Eager to join innovative tech teams to apply my skills in development, product design, and emerging technologies.
 
-- **Based In**: Kigali, Rwanda | ALU
+- **Based In**: Juba, South Sudan | MTN
 - **Currently Learning**: Advanced TypeScript, GraphQL, AWS
 - **Fun Fact**: I built a Flask app during a 48-hour power outage using only my mobile hotspot!
 - **Goal**: To contribute to meaningful open-source projects and build tech solutions for African communities
