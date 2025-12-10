@@ -7,30 +7,50 @@
 </p>
 
 <h1 align="center">Long Maker Long Deng</h1>
-<p align="center"><em>Full-Stack Developer | Open-Source Advocate</em></p>
+<p align="center"><em>Full-Stack Developer | Open-Source Advocate | Software Engineer</em></p>
 
 <p align="center">
   ✨ <i>Building Solutions, Bridging Communities Through Code</i> ✨
 </p>
 
 <p align="center">
+  <a href="mailto:l.deng@alustudent.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/long-maker-long-deng/">💼 LinkedIn</a> •
+  <a href="https://longdeng.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://calendly.com/long_maker_long_deng">📅 Schedule Meeting</a> •
+  <a href="https://medium.com/@l.deng_74356">✍️ Blog</a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=longmaker2&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/last-commit/longmaker2/longmaker2?color=0e75b6&style=for-the-badge" alt="Latest Commit" />
-  <img src="https://img.shields.io/badge/Last%20Updated-April%2010%2C%202025-4CAF50?style=for-the-badge" alt="Last Updated" />
+  <img src="https://img.shields.io/github/last-commit/longmaker2/longmaker2?color=0e75b6&style=for-the-badge&cache=none" alt="Latest Commit" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-4CAF50?style=for-the-badge" alt="Status" />
 </p>
 
 ---
 
 ### 👤 About Me
 
-Detail-oriented Junior Software Engineer with over 2 years of hands-on experience in full-stack development, UX/UI design, and mobile applications. Proficient in building secure, scalable, and user-friendly software solutions. Successfully developed **Community Connect**, a multi-tenant MERN stack platform with real-time chat via Socket.IO, and **South Sudan Horizons**, a feature-rich tour booking website with multilingual support, reviews, and live chat. Graduated with a **BSc in Software Engineering from African Leadership University**. Gained practical experience through an IT internship at **Ecobank Rwanda** (led EDAS system development and offered tech support) and a remote internship at **ClaimDeck and Hermes Law** (active contributor on multiple projects). Eager to join innovative tech teams to apply my skills in development, product design, and emerging technologies.
+🎓 **BSc Software Engineering Graduate** from African Leadership University with 2+ years of hands-on experience in full-stack development, UX/UI design, and mobile applications. Specialized in building secure, scalable, and user-centric software solutions that drive real impact.
 
-- **Based In**: Juba, South Sudan | MTN
-- **Currently Learning**: Advanced TypeScript, GraphQL, AWS
-- **Fun Fact**: I built a Flask app during a 48-hour power outage using only my mobile hotspot!
-- **Goal**: To contribute to meaningful open-source projects and build tech solutions for African communities
-- **Reach Me**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com) | [Schedule Chat](https://calendly.com/long_maker_long_deng)
-- **Milestone**: Just finished my B.Sc. in Software Engineering—counting down to graduation day!
+**Key Achievements:**
+- ✨ Developed **Community Connect** - Multi-tenant MERN platform with real-time chat via Socket.IO
+- 🌍 Built **South Sudan Horizons** - Feature-rich tourism platform with 1,000+ users, multilingual support, and live chat
+- 🏦 Created **EDAS** at Ecobank Rwanda - Achieved 30% faster document retrieval, streamlining banking operations
+- 🏅 ALU Hackathon Winner - Recognized for innovative problem-solving
+
+**Professional Experience:**
+- 💼 IT Intern at **Ecobank Rwanda** - Led EDAS system development and provided technical support
+- 💻 Remote Intern at **ClaimDeck & Hermes Law** - Active contributor across multiple projects
+
+Passionate about leveraging technology to create solutions for African communities and contributing to meaningful open-source projects.
+
+- **Based In**: Juba, South Sudan
+- **Currently Learning**: Advanced TypeScript, GraphQL, AWS Cloud Architecture
+- **Fun Fact**: Built a Flask app during a 48-hour power outage using only mobile hotspot!
+- **Goal**: Contributing to meaningful open-source projects and building tech solutions for African communities
+- **Reach Me**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com) | [Schedule a Chat](https://calendly.com/long_maker_long_deng)
+- **Milestone**: BSc in Software Engineering Graduate - African Leadership University
 
 #### 🌟 Skills Snapshot
 
@@ -38,13 +58,25 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
   <img src="https://skillicons.dev/icons?i=js,ts,python,dart,react,nextjs,nodejs,express,django,flask,mongodb,postgres,tailwind,graphql,aws,docker,git" alt="Technology icons" />
 </p>
 
-<p align="center">
-  JavaScript/TypeScript: <progress value="85" max="100"></progress> 85% | 
-  Python: <progress value="90" max="100"></progress> 90% | 
-  React: <progress value="80" max="100"></progress> 80%
-</p>
+<details>
+<summary><b>📊 Proficiency Levels (Click to expand)</b></summary>
+<br>
+
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| JavaScript/TypeScript | ████████░░ 85% | 2+ years |
+| Python | █████████░ 90% | 3+ years |
+| React/Next.js | ████████░░ 80% | 2+ years |
+| Node.js/Express | ████████░░ 80% | 2+ years |
+| Django/Flask | ████████░░ 85% | 2+ years |
+| MongoDB/PostgreSQL | ███████░░░ 75% | 1.5+ years |
+| AWS/Docker | ██████░░░░ 65% | 1+ year |
+| Flutter/Dart | ███████░░░ 70% | 1+ year |
+
+</details>
 
 #### 📈 At a Glance
+
 <p align="center">
   <img src="https://img.shields.io/badge/Years%20Coding-4-FF5722?style=flat-square" />
   <img src="https://img.shields.io/badge/Projects%20Completed-10+-4CAF50?style=flat-square" />
@@ -55,14 +87,16 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
 
 ### 🧠 What I'm Working On
 
-- Scaling **South Sudan Horizons** with more real-time features
-- Experimenting with **GraphQL** and **Prisma**
-- Exploring ways to leverage tech for displaced communities in Africa
-- Building a Flutter app for ALU student services
+- 🚀 Scaling **South Sudan Horizons** with enhanced real-time features and AI-powered recommendations
+- 🔍 Deep diving into **GraphQL**, **Prisma ORM**, and **microservices architecture**
+- 🌍 Leveraging technology for displaced communities across Africa
+- 📱 Building a comprehensive Flutter app for ALU student services
+- 💡 Exploring **AWS serverless architecture** and **cloud-native development**
 
 ---
 
 ### ✍️ Latest Insights
+
 <p align="center">
   <a href="https://medium.com/@l.deng_74356/everything-in-python-is-an-object-4f2bbda35931">
     <img src="https://img.shields.io/badge/Read%20My%20Latest%20Post-EVERYTHING%20IN%20PYTHON%20IS%20AN%20OBJECT-12100E?style=for-the-badge&logo=medium&logoColor=white" />
@@ -72,6 +106,7 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
 ---
 
 ### 🌟 Featured Highlights
+
 <p align="center">
   A collection of posts, articles, and features showcasing my work and thoughts:
 </p>
@@ -95,8 +130,8 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
   <img src="https://img.shields.io/github/stars/longmaker2?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/longmaker2?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/ALU%20Hackathon-Winner-blue?style=for-the-badge&logo=trophy" alt="ALU Hackathon Winner" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=mit" alt="MIT License" />
-  <img src="https://img.shields.io/badge/Graduating%20Soon-June%202025-FFD700?style=for-the-badge&logo=graduation-cap" alt="Graduating Soon" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License" />
+  <img src="https://img.shields.io/badge/BSc%20Software%20Engineering-Graduate-FFD700?style=for-the-badge&logo=graduationcap" alt="Graduate" />
 </p>
 
 ---
@@ -104,6 +139,7 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
 ### 🛠️ Tech Stack
 
 #### 🔧 Core Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
@@ -113,6 +149,7 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
 </p>
 
 #### 🖥️ Frontend
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
@@ -124,6 +161,7 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
 </p>
 
 #### ⚙️ Backend
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
@@ -135,6 +173,7 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
 </p>
 
 #### 🗃️ Databases
+
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
@@ -210,14 +249,22 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=longmaker2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=longmaker2&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=longmaker2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=longmaker2&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longmaker2&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longmaker2&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" alt="Top Languages" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=longmaker2&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width="48%" alt="Top Contributed Repos" />
+</p>
+
+#### 📈 Coding Activity & Productivity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=longmaker2&theme=radical&hide_border=true&layout=compact" width="48%" alt="WakaTime Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=longmaker2&theme=radical" width="48%" alt="Productive Time" />
 </p>
 
 #### 🐍 Contribution Snake Game
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/longmaker2/longmaker2/raw/output/snake-dark.svg" />
@@ -228,9 +275,9 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
 </p>
 
 #### ⏳ Recent Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longmaker2&theme=radical&hide_border=true&area=true&custom_title=Recent%20Contributions" width="100%" alt="Recent Activity Graph" />
-  <p><i>Latest commits, PRs, and more!</i></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longmaker2&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Recent Activity Graph" />
 </p>
 
 ---
@@ -241,19 +288,26 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
   <img src="https://github-profile-trophy.vercel.app/?username=longmaker2&theme=radical&no-bg=true&no-frame=true&margin-w=15" width="100%" alt="GitHub Trophies" />
 </p>
 
+### 📊 Detailed Metrics
+
+<p align="center">
+  <img src="/metrics.svg" alt="Detailed GitHub Metrics" width="100%" />
+</p>
+
 ---
 
 ### 🌍 Community Impact
 
-- **Tech Speaker**: Delivered talks on African developer ecosystems at ALU and local meetups
-- **Mentorship**: Guided 15+ students as a lead coding mentor at ALU
-- **Open Source**: Maintain 3 community projects with 50+ contributors
-- **Collaborations**: Partnered with Ecobank and 2 African startups
-- **Education**: Creating free coding resources for South Sudanese developers
+- **💬 Tech Speaker**: Delivered impactful talks on African developer ecosystems at ALU and local tech meetups
+- **👨‍🏫 Mentorship**: Guided 15+ students as lead coding mentor, helping them launch their tech careers
+- **⭐ Open Source**: Actively maintain 3 community projects with 50+ global contributors
+- **🤝 Collaborations**: Partnered with Ecobank Rwanda and 2+ innovative African tech startups
+- **📚 Education**: Creating free, accessible coding resources for aspiring South Sudanese developers
 
 ---
 
 ### 💬 What People Say
+
 <p align="center">
   <i>"Long’s dedication to solving real-world problems through code is unmatched!" — ALU Mentor</i>
 </p>
@@ -337,6 +391,12 @@ Detail-oriented Junior Software Engineer with over 2 years of hands-on experienc
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=footer&animation=fadeIn" width="100%" />
 </p>
+
 <p align="center">
-  "Technology is best when it brings people together." — Adapted from Matt Mullenweg
+  <b>"Technology is best when it brings people together."</b><br>
+  <sub>Adapted from Matt Mullenweg</sub>
+</p>
+
+<p align="center">
+  Made with ❤️ by Long Maker Long Deng | Last Updated: December 2025
 </p>
