@@ -288,29 +288,6 @@ Passionate about leveraging technology to create solutions for African communiti
 
 ---
 
-### 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/longmaker2/south-sudan-horizons">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=longmaker2&repo=south-sudan-horizons&theme=radical&hide_border=true" alt="South Sudan Horizons" />
-  </a>
-  <a href="https://github.com/longmaker2/community-connect">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=longmaker2&repo=community-connect&theme=radical&hide_border=true" alt="Community Connect" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/longmaker2/edas">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=longmaker2&repo=edas&theme=radical&hide_border=true" alt="EDAS" />
-  </a>
-</p>
-
-<p align="right"><a href="#top">⬆️ Back to Top</a></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
 ### 📊 GitHub Analytics
 
 <!-- Primary Stats Display -->
