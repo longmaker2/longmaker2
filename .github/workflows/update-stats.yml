@@ -1,12 +1,15 @@
-name: Update Profile Stats
+name: Generate Profile Stats
 
 on:
   schedule:
     - cron: '0 */6 * * *' # Every 6 hours
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  update-readme:
+  update-stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -14,25 +17,38 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       
-      - name: Update README with metrics
+      - name: Generate GitHub Stats
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update GitHub activity'
+          MAX_LINES: 10
+      
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics.svg
           user: longmaker2
+          template: classic
           base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Nairobi
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_discussions: yes
           plugin_lines: yes
-          config_timezone: Africa/Nairobi
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          commits_authoring: longmaker2, l.deng@alustudent.com
+

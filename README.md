@@ -248,19 +248,28 @@ Passionate about leveraging technology to create solutions for African communiti
 
 ### 📊 GitHub Analytics
 
+<!-- Primary Stats Display -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=longmaker2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=longmaker2&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longmaker2&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=longmaker2&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width="48%" alt="Top Contributed Repos" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=longmaker2&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=longmaker2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
 </p>
 
-#### 📈 Coding Activity & Productivity
+<!-- Language & Contribution Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=longmaker2&theme=radical&hide_border=true&layout=compact" width="48%" alt="WakaTime Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=longmaker2&theme=radical" width="48%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=longmaker2&theme=radical" width="32%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=longmaker2&theme=radical" width="32%" alt="Most Commits Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=longmaker2&theme=radical" width="32%" alt="Stats Overview" />
+</p>
+
+<!-- Productivity & Activity -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=longmaker2&theme=radical" width="49%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=longmaker2&theme=radical" width="49%" alt="Commits Graph" />
+</p>
+
+<!-- Detailed Profile View -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=longmaker2&theme=radical" alt="Profile Details" width="100%" />
 </p>
 
 #### 🐍 Contribution Snake Game
@@ -277,21 +286,44 @@ Passionate about leveraging technology to create solutions for African communiti
 #### ⏳ Recent Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longmaker2&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Recent Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longmaker2&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Recent Activity Graph" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements & Trophies
 
+<!-- Trophy Display -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=longmaker2&theme=radical&no-bg=true&no-frame=true&margin-w=15" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=longmaker2&theme=radical&no-bg=true&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
 </p>
 
-### 📊 Detailed Metrics
+<!-- Comprehensive Stats Alternatives -->
+<details>
+<summary><b>📈 Additional Stats & Insights (Click to expand)</b></summary>
+<br>
+
+**Alternative Stat Views:**
 
 <p align="center">
-  <img src="/metrics.svg" alt="Detailed GitHub Metrics" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=longmaker2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Comprehensive GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=longmaker2&layout=compact&theme=radical&hide_border=true&langs_count=10" width="48%" alt="Top Languages Detailed" />
+</p>
+
+**Language Usage Over Time:**
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=longmaker2&layout=pie&theme=radical&hide_border=true" width="48%" alt="Language Distribution" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=longmaker2&layout=compact&theme=radical&hide_border=true" width="48%" alt="Coding Activity" />
+</p>
+
+</details>
+
+### 📊 Detailed GitHub Metrics
+
+<p align="center">
+  <img src="/metrics.svg" alt="Detailed Metrics" width="100%" />
+  <sub><i>Auto-generated every 6 hours via GitHub Actions</i></sub>
 </p>
 
 ---
