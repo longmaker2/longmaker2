@@ -7,7 +7,12 @@
 </p>
 
 <h1 align="center">Long Maker Long Deng</h1>
-<p align="center"><em>Full-Stack Developer | Open-Source Advocate | Software Engineer</em></p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Open-Source+Advocate+%E2%9C%A8;Software+Engineer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;Building+for+Africa+%F0%9F%8C%8D" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   ✨ <i>Building Solutions, Bridging Communities Through Code</i> ✨
@@ -27,6 +32,18 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-4CAF50?style=for-the-badge" alt="Status" />
 </p>
 
+<!-- Quick Navigation -->
+<p align="center">
+  <a href="#-about-me">📖 About</a> •
+  <a href="#-skills-snapshot">💻 Skills</a> •
+  <a href="#-featured-projects">🚀 Projects</a> •
+  <a href="#-github-analytics">📊 Stats</a> •
+  <a href="#-community-impact">🌍 Community</a> •
+  <a href="#-lets-connect">📬 Connect</a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ### 👤 About Me
@@ -45,12 +62,21 @@
 
 Passionate about leveraging technology to create solutions for African communities and contributing to meaningful open-source projects.
 
-- **Based In**: Juba, South Sudan
-- **Currently Learning**: Advanced TypeScript, GraphQL, AWS Cloud Architecture
-- **Fun Fact**: Built a Flask app during a 48-hour power outage using only mobile hotspot!
-- **Goal**: Contributing to meaningful open-source projects and building tech solutions for African communities
-- **Reach Me**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com) | [Schedule a Chat](https://calendly.com/long_maker_long_deng)
-- **Milestone**: BSc in Software Engineering Graduate - African Leadership University
+#### 📍 Quick Info
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Based_in-Juba,_South_Sudan-blue?style=for-the-badge&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/Timezone-CAT_(UTC+2)-orange?style=for-the-badge&logo=clockify" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge" />
+</p>
+
+- 🎓 **Education**: BSc Software Engineering Graduate - African Leadership University
+- 🌱 **Currently Learning**: Advanced TypeScript, GraphQL, AWS Cloud Architecture
+- 🎯 **Goal**: Building impactful tech solutions for African communities
+- ⚡ **Fun Fact**: Built a Flask app during a 48-hour power outage using only mobile hotspot!
+- 📧 **Reach Me**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com)
+- 📅 **Schedule**: [Book a meeting](https://calendly.com/long_maker_long_deng)
+- 🌐 **Portfolio**: [longdeng.vercel.app](https://longdeng.vercel.app/)
 
 #### 🌟 Skills Snapshot
 
@@ -75,6 +101,10 @@ Passionate about leveraging technology to create solutions for African communiti
 
 </details>
 
+<p align="right"><a href="#top">⬆️ Back to Top</a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 #### 📈 At a Glance
 
 <p align="center">
@@ -93,15 +123,23 @@ Passionate about leveraging technology to create solutions for African communiti
 - 📱 Building a comprehensive Flutter app for ALU student services
 - 💡 Exploring **AWS serverless architecture** and **cloud-native development**
 
+<p align="right"><a href="#top">⬆️ Back to Top</a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-### ✍️ Latest Insights
+### 📝 Latest Blog Posts
 
-<p align="center">
-  <a href="https://medium.com/@l.deng_74356/everything-in-python-is-an-object-4f2bbda35931">
-    <img src="https://img.shields.io/badge/Read%20My%20Latest%20Post-EVERYTHING%20IN%20PYTHON%20IS%20AN%20OBJECT-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
+<!-- BLOG-POST-LIST:START -->
+- [EVERYTHING IN PYTHON IS AN OBJECT](https://medium.com/@l.deng_74356/everything-in-python-is-an-object-4f2bbda35931)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [Read more on Medium](https://medium.com/@l.deng_74356)
+
+<p align="right"><a href="#top">⬆️ Back to Top</a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -244,6 +282,33 @@ Passionate about leveraging technology to create solutions for African communiti
   </tr>
 </table>
 
+<p align="right"><a href="#top">⬆️ Back to Top</a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+### 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/longmaker2/south-sudan-horizons">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=longmaker2&repo=south-sudan-horizons&theme=radical&hide_border=true" alt="South Sudan Horizons" />
+  </a>
+  <a href="https://github.com/longmaker2/community-connect">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=longmaker2&repo=community-connect&theme=radical&hide_border=true" alt="Community Connect" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/longmaker2/edas">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=longmaker2&repo=edas&theme=radical&hide_border=true" alt="EDAS" />
+  </a>
+</p>
+
+<p align="right"><a href="#top">⬆️ Back to Top</a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ### 📊 GitHub Analytics
@@ -297,6 +362,10 @@ Passionate about leveraging technology to create solutions for African communiti
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=longmaker2&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Recent Activity Graph" />
 </p>
+
+<p align="right"><a href="#top">⬆️ Back to Top</a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
