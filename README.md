@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:l.deng@alustudent.com">📧 Email</a> •
+  <a href="mailto:l.deng@alumni.alueducation.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/long-maker-long-deng/">💼 LinkedIn</a> •
   <a href="https://longdeng.vercel.app/">🌐 Portfolio</a> •
   <a href="https://calendly.com/long_maker_long_deng">📅 Schedule Meeting</a> •
@@ -74,7 +74,7 @@ Passionate about leveraging technology to create solutions for African communiti
 - 🌱 **Currently Learning**: Advanced TypeScript, GraphQL, AWS Cloud Architecture
 - 🎯 **Goal**: Building impactful tech solutions for African communities
 - ⚡ **Fun Fact**: Built a Flask app during a 48-hour power outage using only mobile hotspot!
-- 📧 **Reach Me**: [l.deng@alustudent.com](mailto:l.deng@alustudent.com)
+- 📧 **Reach Me**: [l.deng@alumni.alueducation.com](mailto:l.deng@alumni.alueducation.com) | [long.makerlong@gmail.com](mailto:long.makerlong@gmail.com)
 - 📅 **Schedule**: [Book a meeting](https://calendly.com/long_maker_long_deng)
 - 🌐 **Portfolio**: [longdeng.vercel.app](https://longdeng.vercel.app/)
 
@@ -457,7 +457,7 @@ Passionate about leveraging technology to create solutions for African communiti
   <a href="https://github.com/longmaker2" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:l.deng@alustudent.com" target="_blank">
+  <a href="mailto:l.deng@alumni.alueducation.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://calendly.com/long_maker_long_deng" target="_blank">
