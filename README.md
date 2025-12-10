@@ -264,12 +264,21 @@ Passionate about leveraging technology to create solutions for African communiti
 <!-- Productivity & Activity -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=longmaker2&theme=radical" width="49%" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=longmaker2&theme=radical" width="49%" alt="Commits Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longmaker2&bg_color=141321&color=a855f7&line=f472b6&point=ffffff&area=true&hide_border=true" width="49%" alt="Contribution Graph" />
 </p>
 
 <!-- Detailed Profile View -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=longmaker2&theme=radical" alt="Profile Details" width="100%" />
+</p>
+
+<!-- GitHub Contribution Chart -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/409ba5/longmaker2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/longmaker2" />
+    <img src="https://ghchart.rshah.org/409ba5/longmaker2" alt="GitHub Contribution Chart" width="100%" />
+  </picture>
 </p>
 
 #### 🐍 Contribution Snake Game
@@ -314,17 +323,38 @@ Passionate about leveraging technology to create solutions for African communiti
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=longmaker2&layout=pie&theme=radical&hide_border=true" width="48%" alt="Language Distribution" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=longmaker2&layout=compact&theme=radical&hide_border=true" width="48%" alt="Coding Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=longmaker2&bg_color=141321&color=a855f7&line=f472b6&point=ffffff&area=true&hide_border=true&custom_title=Overall%20Contribution%20Activity" width="48%" alt="Overall Activity" />
 </p>
 
 </details>
 
-### 📊 Detailed GitHub Metrics
+### 📊 Detailed Metrics & Insights
+
+<!-- Interactive Metrics Display -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=longmaker2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=27" width="49%" alt="Detailed GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=longmaker2&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=html,css" width="49%" alt="Top Programming Languages" />
+</p>
+
+<!-- Contribution Heatmap -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/a855f7/longmaker2" alt="GitHub Contribution Heatmap" width="100%" />
+  <sub><i>1-year contribution heatmap</i></sub>
+</p>
+
+<!-- Advanced Metrics (Will appear after workflow runs) -->
+<details>
+<summary><b>🎯 Advanced GitHub Metrics (Click to expand)</b></summary>
+<br>
 
 <p align="center">
-  <img src="/metrics.svg" alt="Detailed Metrics" width="100%" />
-  <sub><i>Auto-generated every 6 hours via GitHub Actions</i></sub>
+  <img src="https://raw.githubusercontent.com/longmaker2/longmaker2/main/metrics.svg" alt="Detailed Metrics" width="100%" onerror="this.style.display='none'" />
+  <sub><i>Auto-generated every 8 hours via GitHub Actions • May take first run to appear</i></sub>
 </p>
+
+**If metrics don't show yet:** The workflow will generate them after you push. Check back in a few hours!
+
+</details>
 
 ---
 
