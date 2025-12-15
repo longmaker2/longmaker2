@@ -8,10 +8,14 @@ jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@l.deng_74356"
           max_post_count: 5
           template: "- [$title]($url)"
+          committer_email: "l.deng@alumni.alueducation.com"
+          committer_username: "longmaker2"
