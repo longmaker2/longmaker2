@@ -131,9 +131,7 @@ Passionate about leveraging technology to create solutions for African communiti
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [EVERYTHING IN PYTHON IS AN OBJECT](https://medium.com/@l.deng_74356/everything-in-python-is-an-object-4f2bbda35931)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [EVERYTHING IN PYTHON IS AN OBJECT](https://medium.com/@l.deng_74356/everything-in-python-is-an-object-4f2bbda35931?source=rss-69c000ae98ed------2)<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on Medium](https://medium.com/@l.deng_74356)
 
